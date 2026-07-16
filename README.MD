@@ -82,7 +82,7 @@ The implementation has been experimentally validated using multiple USB device c
 - HID peripherals
 - Android smartphones (ADB, MTP and RNDIS)
 - Apple iPhone
-- USB LTE modems
+- USB modems
 - USB Ethernet adapters
 - USB-to-serial converters
 - USB mass storage devices
@@ -98,7 +98,7 @@ Additional documentation is available in the **docs/** directory.
 |----------|-------------|
 | BUILD.md | Build environment and compilation instructions |
 | EXPERIMENTS.md | Experimental setup and reproducibility guide |
-| ARCHITECTURE.md | Software architecture (to be added) |
+| ARCHITECTURE.md | Software architecture |
 
 ---
 
