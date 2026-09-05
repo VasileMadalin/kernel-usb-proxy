@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the reference implementation of a kernel-level USB proxy for Linux developed as part of the research presented in the IEEE Access manuscript *"A Linux Kernel USB Proxy with Integrated Threat Detection"*.
+This repository contains the reference implementation of a kernel-level USB proxy for Linux, developed as part of the research presented in the IEEE Access article *"A Linux Kernel USB Proxy with Integrated Threat Detection"*.
 
 The implementation transparently mediates communication between USB host systems and connected USB devices while providing descriptor-based policy enforcement and packet-level inspection mechanisms. The proxy operates entirely inside the Linux kernel and is intended for USB security research and experimentation.
 
